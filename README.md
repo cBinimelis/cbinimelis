@@ -1,6 +1,6 @@
 ![portada](assets/svg/portada_readme.svg)
 
-# 👋🏻 Hello there!
+# 👋🏻 Hello there everyone!
 
 <p style="text-align:center;"> I'm Cristofer, aka Kurizubi, I love to learn new skills and make new stuff. Currently I´m working on leveling up my skills to make even greater things, a thrilling daily grind to become a better version of myself.</p>
 
